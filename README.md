@@ -5,7 +5,7 @@
 
 Web, REST(CRUD) 등 관련 개념이 없었을 당시 개발했었던 Back-end 서버(Django 활용)
 
-### [포스트]()
+### [포스트](https://github.com/KimUJin3359/HAE_back_end/blob/master/HAE_%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf)
 
 ### 프로젝트 개요
 ![SW경진대회_작품설명서_HAE (1)_page-0003](https://user-images.githubusercontent.com/50474972/109842392-6021e880-7c8d-11eb-849d-fa9466f064e7.jpg)
@@ -28,3 +28,4 @@ Web, REST(CRUD) 등 관련 개념이 없었을 당시 개발했었던 Back-end �
 - [DB_views](https://github.com/KimUJin3359/HAE_back_end/blob/master/HAE_DB/views.py)
   - 각 기능에 맞춰 작업을 수행(조회, 생성, 수정, 삭제)
   - 후에 알게된 것이지만 데이터를 일괄 업데이트 할 때는 PUT, 개별로 업데이트 할 때는 PATCH 사용
+- 서버 작동 : nginx 사용
