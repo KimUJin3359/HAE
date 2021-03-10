@@ -4,7 +4,7 @@ import bcrypt
 import jwt
 import os
 
-JWT_SECRET_KEY = 'how about exercise'
+#JWT_SECRET_KEY = 'This is a private key(not public)'
 algorithm = 'HS256'
 
 class judge(models.Model):
