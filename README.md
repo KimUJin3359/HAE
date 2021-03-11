@@ -8,11 +8,12 @@ Web, REST(CRUD) 등 관련 개념이 없었을 당시 개발했었던 Back-end �
 - nginx
 
 ### DOCMUENTS
-- [요구사항 분석서](https://github.com/KimUJin3359/HAE/blob/master/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D.pdf)
-- [요구사항 명세서](https://github.com/KimUJin3359/HAE/blob/master/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8.pdf)
-- [1차 demo](https://github.com/KimUJin3359/HAE/blob/master/1%EC%B0%A8%20%EC%8B%9C%EC%95%88.pdf)
-- [시스템테스트 계획서](https://github.com/KimUJin3359/HAE/blob/master/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%84%ED%9A%8D.pdf)
-- [포스터](https://github.com/KimUJin3359/HAE_back_end/blob/master/HAE_%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf)
+- [요구사항분석서(SRA)](https://github.com/KimUJin3359/HAE/blob/master/document/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D.pdf)
+- [요구사항명세서(SRS)](https://github.com/KimUJin3359/HAE/blob/master/document/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8.pdf)
+- [1st demo](https://github.com/KimUJin3359/HAE/blob/master/document/1%EC%B0%A8%20%EC%8B%9C%EC%95%88.pdf)
+- [시스템테스트 계획서(STP)](https://github.com/KimUJin3359/HAE/blob/master/document/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%84%ED%9A%8D.pdf)
+- [설계서(SDS)](https://github.com/KimUJin3359/HAE/blob/master/document/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%94%94%EC%9E%90%EC%9D%B8%EB%AA%85%EC%84%B8.pdf)
+- [최종 포스터](https://github.com/KimUJin3359/HAE/blob/master/document/HAE_%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf)
 
 ### 프로젝트 개요
 ![SW경진대회_작품설명서_HAE (1)_page-0003](https://user-images.githubusercontent.com/50474972/109842392-6021e880-7c8d-11eb-849d-fa9466f064e7.jpg)
