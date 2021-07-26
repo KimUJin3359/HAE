@@ -40,3 +40,12 @@
 - [DB_views](https://github.com/KimUJin3359/HAE_back_end/blob/master/HAE_DB/views.py)
   - 각 기능에 맞춰 작업을 수행(조회, 생성, 수정, 삭제)
   - 후에 알게된 것이지만 데이터를 일괄 업데이트 할 때는 PUT, 개별로 업데이트 할 때는 PATCH 사용
+
+---
+
+### AWS 서버 설정 시 발생한 오류
+```
+File "/usr/local/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args, subprocess.CalledProcessError: Command '('lsb_release', '-a')' returned non-zero exit status 1.
+```
+- 해결 lsb_release 재연동 : $ sudo ln -s /usr/share/pyshared/lsb_release.py /usr/local/lib/python3.9/site-packages/lsb_release.py
